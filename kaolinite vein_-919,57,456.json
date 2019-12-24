@@ -1,0 +1,17 @@
+{
+  "id": "kaolinite vein_-919,57,456",
+  "name": "kaolinite vein",
+  "icon": "waypoint-normal.png",
+  "x": -919,
+  "y": 57,
+  "z": 456,
+  "r": 51,
+  "g": 204,
+  "b": 235,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

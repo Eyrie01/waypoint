@@ -1,0 +1,17 @@
+{
+  "id": "tin vein_-1350,112,22",
+  "name": "tin vein",
+  "icon": "waypoint-normal.png",
+  "x": -1350,
+  "y": 112,
+  "z": 22,
+  "r": 94,
+  "g": 152,
+  "b": 128,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

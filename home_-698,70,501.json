@@ -1,0 +1,17 @@
+{
+  "id": "home_-698,70,501",
+  "name": "home",
+  "icon": "waypoint-normal.png",
+  "x": -698,
+  "y": 70,
+  "z": 501,
+  "r": 24,
+  "g": 6,
+  "b": 139,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
