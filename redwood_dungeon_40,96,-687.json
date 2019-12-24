@@ -1,0 +1,17 @@
+{
+  "id": "redwood/dungeon_40,96,-687",
+  "name": "redwood/dungeon",
+  "icon": "waypoint-normal.png",
+  "x": 40,
+  "y": 96,
+  "z": -687,
+  "r": 44,
+  "g": 109,
+  "b": 198,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

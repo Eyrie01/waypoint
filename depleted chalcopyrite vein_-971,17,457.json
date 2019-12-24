@@ -1,0 +1,17 @@
+{
+  "id": "depleted chalcopyrite vein_-971,17,457",
+  "name": "depleted chalcopyrite vein",
+  "icon": "waypoint-normal.png",
+  "x": -971,
+  "y": 17,
+  "z": 457,
+  "r": 48,
+  "g": 81,
+  "b": 163,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

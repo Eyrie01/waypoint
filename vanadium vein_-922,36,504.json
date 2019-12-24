@@ -1,0 +1,17 @@
+{
+  "id": "vanadium vein_-922,36,504",
+  "name": "vanadium vein",
+  "icon": "waypoint-normal.png",
+  "x": -922,
+  "y": 36,
+  "z": 504,
+  "r": 104,
+  "g": 181,
+  "b": 105,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

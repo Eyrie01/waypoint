@@ -1,0 +1,17 @@
+{
+  "id": "Village_-1251,70,638",
+  "name": "Village",
+  "icon": "waypoint-normal.png",
+  "x": -1251,
+  "y": 70,
+  "z": 638,
+  "r": 40,
+  "g": 213,
+  "b": 189,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
