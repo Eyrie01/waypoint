@@ -1,0 +1,17 @@
+{
+  "id": "redstone vein_-536,36,649",
+  "name": "redstone vein",
+  "icon": "waypoint-normal.png",
+  "x": -536,
+  "y": 36,
+  "z": 649,
+  "r": 2,
+  "g": 59,
+  "b": 100,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
