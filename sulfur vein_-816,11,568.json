@@ -1,0 +1,17 @@
+{
+  "id": "sulfur vein_-816,11,568",
+  "name": "sulfur vein",
+  "icon": "waypoint-normal.png",
+  "x": -816,
+  "y": 11,
+  "z": 568,
+  "r": 55,
+  "g": 136,
+  "b": 19,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}
