@@ -1,0 +1,17 @@
+{
+  "id": "slime island_-986,93,1627",
+  "name": "slime island",
+  "icon": "waypoint-normal.png",
+  "x": -986,
+  "y": 93,
+  "z": 1627,
+  "r": 22,
+  "g": 231,
+  "b": 228,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
