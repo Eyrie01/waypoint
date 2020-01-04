@@ -1,0 +1,17 @@
+{
+  "id": "are infused stone vein_-729,27,546",
+  "name": "are infused stone vein",
+  "icon": "waypoint-normal.png",
+  "x": -729,
+  "y": 27,
+  "z": 546,
+  "r": 108,
+  "g": 144,
+  "b": 96,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}
