@@ -1,0 +1,17 @@
+{
+  "id": "terra infused stone vein_-631,14,552",
+  "name": "terra infused stone vein",
+  "icon": "waypoint-normal.png",
+  "x": -631,
+  "y": 14,
+  "z": 552,
+  "r": 67,
+  "g": 198,
+  "b": 104,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

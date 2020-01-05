@@ -1,0 +1,17 @@
+{
+  "id": "bentonite vein_-824,29,456",
+  "name": "bentonite vein",
+  "icon": "waypoint-normal.png",
+  "x": -824,
+  "y": 29,
+  "z": 456,
+  "r": 193,
+  "g": 130,
+  "b": 183,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

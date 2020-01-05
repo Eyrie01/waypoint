@@ -1,0 +1,17 @@
+{
+  "id": "diamond vein_-729,15,648",
+  "name": "diamond vein",
+  "icon": "waypoint-normal.png",
+  "x": -729,
+  "y": 15,
+  "z": 648,
+  "r": 224,
+  "g": 2,
+  "b": 80,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}
