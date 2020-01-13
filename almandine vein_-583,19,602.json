@@ -1,0 +1,17 @@
+{
+  "id": "almandine vein_-583,19,602",
+  "name": "almandine vein",
+  "icon": "waypoint-normal.png",
+  "x": -583,
+  "y": 19,
+  "z": 602,
+  "r": 228,
+  "g": 204,
+  "b": 194,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}
