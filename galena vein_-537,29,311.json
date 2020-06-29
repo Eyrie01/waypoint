@@ -1,0 +1,17 @@
+{
+  "id": "galena vein_-537,29,311",
+  "name": "galena vein",
+  "icon": "waypoint-normal.png",
+  "x": -537,
+  "y": 29,
+  "z": 311,
+  "r": 34,
+  "g": 230,
+  "b": 25,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

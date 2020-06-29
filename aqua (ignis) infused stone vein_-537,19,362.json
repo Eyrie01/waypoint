@@ -1,0 +1,17 @@
+{
+  "id": "aqua (ignis) infused stone vein_-537,19,362",
+  "name": "aqua (ignis) infused stone vein",
+  "icon": "waypoint-normal.png",
+  "x": -537,
+  "y": 19,
+  "z": 362,
+  "r": 42,
+  "g": 51,
+  "b": 218,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}
