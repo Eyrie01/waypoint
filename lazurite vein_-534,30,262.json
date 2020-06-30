@@ -1,0 +1,17 @@
+{
+  "id": "lazurite vein_-534,30,262",
+  "name": "lazurite vein",
+  "icon": "waypoint-normal.png",
+  "x": -534,
+  "y": 30,
+  "z": 262,
+  "r": 4,
+  "g": 149,
+  "b": 194,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

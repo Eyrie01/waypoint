@@ -1,0 +1,17 @@
+{
+  "id": "coal vein_-537,33,214",
+  "name": "coal vein",
+  "icon": "waypoint-normal.png",
+  "x": -537,
+  "y": 33,
+  "z": 214,
+  "r": 249,
+  "g": 22,
+  "b": 27,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}
