@@ -1,0 +1,17 @@
+{
+  "id": "Aura Node_-730,20,-290",
+  "name": "Aura Node",
+  "icon": "waypoint-normal.png",
+  "x": -730,
+  "y": 20,
+  "z": -290,
+  "r": 105,
+  "g": 65,
+  "b": 94,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

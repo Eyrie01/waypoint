@@ -1,0 +1,17 @@
+{
+  "id": "Mooshroom_-154,125,-1362",
+  "name": "Mooshroom",
+  "icon": "waypoint-normal.png",
+  "x": -154,
+  "y": 125,
+  "z": -1362,
+  "r": 75,
+  "g": 249,
+  "b": 82,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
