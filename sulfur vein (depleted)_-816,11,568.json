@@ -1,6 +1,6 @@
 {
-  "id": "sulfur vein_-816,11,568",
-  "name": "sulfur vein",
+  "id": "sulfur vein (depleted)_-816,11,568",
+  "name": "sulfur vein (depleted)",
   "icon": "waypoint-normal.png",
   "x": -816,
   "y": 11,
@@ -8,7 +8,7 @@
   "r": 55,
   "g": 136,
   "b": 19,
-  "enable": true,
+  "enable": false,
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [
