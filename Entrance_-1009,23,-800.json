@@ -1,0 +1,17 @@
+{
+  "id": "Entrance_-1009,23,-800",
+  "name": "Entrance",
+  "icon": "waypoint-normal.png",
+  "x": -1009,
+  "y": 23,
+  "z": -800,
+  "r": 118,
+  "g": 142,
+  "b": 142,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "nhlest portal_-24,53,320",
+  "name": "nhlest portal",
+  "icon": "waypoint-normal.png",
+  "x": -24,
+  "y": 53,
+  "z": 320,
+  "r": 164,
+  "g": 43,
+  "b": 25,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

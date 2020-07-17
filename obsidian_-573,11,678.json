@@ -1,0 +1,17 @@
+{
+  "id": "obsidian_-573,11,678",
+  "name": "obsidian",
+  "icon": "waypoint-normal.png",
+  "x": -573,
+  "y": 11,
+  "z": 678,
+  "r": 208,
+  "g": 29,
+  "b": 133,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
