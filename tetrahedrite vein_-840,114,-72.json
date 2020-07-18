@@ -1,0 +1,17 @@
+{
+  "id": "tetrahedrite vein_-840,114,-72",
+  "name": "tetrahedrite vein",
+  "icon": "waypoint-normal.png",
+  "x": -840,
+  "y": 114,
+  "z": -72,
+  "r": 56,
+  "g": 82,
+  "b": 167,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

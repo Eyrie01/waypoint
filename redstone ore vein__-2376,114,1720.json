@@ -1,0 +1,17 @@
+{
+  "id": "redstone ore vein?_-2376,114,1720",
+  "name": "redstone ore vein?",
+  "icon": "waypoint-normal.png",
+  "x": -2376,
+  "y": 114,
+  "z": 1720,
+  "r": 225,
+  "g": 254,
+  "b": 205,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

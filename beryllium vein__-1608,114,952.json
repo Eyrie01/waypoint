@@ -1,0 +1,17 @@
+{
+  "id": "beryllium vein?_-1608,114,952",
+  "name": "beryllium vein?",
+  "icon": "waypoint-normal.png",
+  "x": -1608,
+  "y": 114,
+  "z": 952,
+  "r": 201,
+  "g": 158,
+  "b": 98,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "quartzite vein_-448,105,960",
+  "name": "quartzite vein",
+  "icon": "waypoint-normal.png",
+  "x": -448,
+  "y": 105,
+  "z": 960,
+  "r": 235,
+  "g": 174,
+  "b": 86,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "saltpeter vein_-1216,40,1344",
+  "name": "saltpeter vein",
+  "icon": "waypoint-normal.png",
+  "x": -1216,
+  "y": 40,
+  "z": 1344,
+  "r": 43,
+  "g": 239,
+  "b": 70,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}
