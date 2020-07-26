@@ -1,17 +1,17 @@
 {
-  "id": "sulfur vein?_-1224,114,568",
-  "name": "sulfur vein?",
+  "id": "oilsands vein_-585,57,744",
+  "name": "oilsands vein",
   "icon": "waypoint-normal.png",
-  "x": -1224,
-  "y": 114,
-  "z": 568,
+  "x": -585,
+  "y": 57,
+  "z": 744,
   "r": 161,
-  "g": 229,
-  "b": 221,
+  "g": 140,
+  "b": 234,
   "enable": false,
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [
-    -1
+    0
   ]
 }

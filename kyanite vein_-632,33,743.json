@@ -1,0 +1,17 @@
+{
+  "id": "kyanite vein_-632,33,743",
+  "name": "kyanite vein",
+  "icon": "waypoint-normal.png",
+  "x": -632,
+  "y": 33,
+  "z": 743,
+  "r": 11,
+  "g": 2,
+  "b": 218,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
