@@ -1,17 +1,17 @@
 {
-  "id": "Aura Node_-341,36,365",
-  "name": "Aura Node",
+  "id": "Stronghold_-464,4,696",
+  "name": "Stronghold",
   "icon": "waypoint-normal.png",
-  "x": -341,
-  "y": 36,
-  "z": 365,
-  "r": 40,
-  "g": 14,
+  "x": -464,
+  "y": 4,
+  "z": 696,
+  "r": 199,
+  "g": 98,
   "b": 140,
   "enable": false,
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [
-    7
+    0
   ]
 }
