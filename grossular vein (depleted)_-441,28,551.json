@@ -1,0 +1,17 @@
+{
+  "id": "grossular vein (depleted)_-441,28,551",
+  "name": "grossular vein (depleted)",
+  "icon": "waypoint-normal.png",
+  "x": -441,
+  "y": 28,
+  "z": 551,
+  "r": 14,
+  "g": 141,
+  "b": 53,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "magnetite vein_-437,55,311",
+  "name": "magnetite vein",
+  "icon": "waypoint-normal.png",
+  "x": -437,
+  "y": 55,
+  "z": 311,
+  "r": 100,
+  "g": 83,
+  "b": 15,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

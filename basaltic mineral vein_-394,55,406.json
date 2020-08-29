@@ -1,0 +1,17 @@
+{
+  "id": "basaltic mineral vein_-394,55,406",
+  "name": "basaltic mineral vein",
+  "icon": "waypoint-normal.png",
+  "x": -394,
+  "y": 55,
+  "z": 406,
+  "r": 238,
+  "g": 59,
+  "b": 123,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

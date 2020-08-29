@@ -1,0 +1,17 @@
+{
+  "id": "magnetite vein also basalt_-392,43,311",
+  "name": "magnetite vein also basalt",
+  "icon": "waypoint-normal.png",
+  "x": -392,
+  "y": 43,
+  "z": 311,
+  "r": 129,
+  "g": 41,
+  "b": 191,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

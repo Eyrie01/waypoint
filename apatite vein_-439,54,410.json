@@ -1,17 +1,17 @@
 {
-  "id": "soapstone vein_-720,28,263",
-  "name": "soapstone vein",
+  "id": "apatite vein_-439,54,410",
+  "name": "apatite vein",
   "icon": "waypoint-normal.png",
-  "x": -720,
-  "y": 28,
-  "z": 263,
-  "r": 26,
+  "x": -439,
+  "y": 54,
+  "z": 410,
+  "r": 0,
   "g": 114,
-  "b": 150,
+  "b": 100,
   "enable": false,
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [
-    7
+    0
   ]
 }
