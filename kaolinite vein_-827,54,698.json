@@ -1,17 +1,17 @@
 {
-  "id": "redstone vein_-824,21,192",
-  "name": "redstone vein",
+  "id": "kaolinite vein_-827,54,698",
+  "name": "kaolinite vein",
   "icon": "waypoint-normal.png",
-  "x": -824,
-  "y": 21,
-  "z": 192,
-  "r": 49,
-  "g": 42,
+  "x": -827,
+  "y": 54,
+  "z": 698,
+  "r": 12,
+  "g": 76,
   "b": 100,
   "enable": false,
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [
-    -1
+    0
   ]
 }

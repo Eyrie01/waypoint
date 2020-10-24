@@ -1,0 +1,17 @@
+{
+  "id": "poison pond_-1612,71,843",
+  "name": "poison pond",
+  "icon": "waypoint-normal.png",
+  "x": -1612,
+  "y": 71,
+  "z": 843,
+  "r": 89,
+  "g": 217,
+  "b": 233,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
