@@ -1,0 +1,17 @@
+{
+  "id": "draconium vein_-1161,26,647",
+  "name": "draconium vein",
+  "icon": "waypoint-normal.png",
+  "x": -1161,
+  "y": 26,
+  "z": 647,
+  "r": 69,
+  "g": 82,
+  "b": 249,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    40
+  ]
+}

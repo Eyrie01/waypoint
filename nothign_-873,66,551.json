@@ -1,0 +1,17 @@
+{
+  "id": "nothign_-873,66,551",
+  "name": "nothign",
+  "icon": "waypoint-normal.png",
+  "x": -873,
+  "y": 66,
+  "z": 551,
+  "r": 113,
+  "g": 69,
+  "b": 171,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    40
+  ]
+}

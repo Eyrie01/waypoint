@@ -1,0 +1,17 @@
+{
+  "id": "garnierite vein_-681,31,551",
+  "name": "garnierite vein",
+  "icon": "waypoint-normal.png",
+  "x": -681,
+  "y": 31,
+  "z": 551,
+  "r": 33,
+  "g": 241,
+  "b": 57,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    29
+  ]
+}

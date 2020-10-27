@@ -1,0 +1,17 @@
+{
+  "id": "basalt_-174,72,127",
+  "name": "basalt",
+  "icon": "waypoint-normal.png",
+  "x": -174,
+  "y": 72,
+  "z": 127,
+  "r": 191,
+  "g": 79,
+  "b": 64,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "stronghold entrance_-521,70,697",
+  "name": "stronghold entrance",
+  "icon": "waypoint-normal.png",
+  "x": -521,
+  "y": 70,
+  "z": 697,
+  "r": 203,
+  "g": 69,
+  "b": 147,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
