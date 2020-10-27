@@ -1,0 +1,17 @@
+{
+  "id": "graphite vein_-297,16,455",
+  "name": "graphite vein",
+  "icon": "waypoint-normal.png",
+  "x": -297,
+  "y": 16,
+  "z": 455,
+  "r": 63,
+  "g": 171,
+  "b": 120,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
