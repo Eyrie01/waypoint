@@ -1,0 +1,17 @@
+{
+  "id": "bastnasite vien_-1209,27,695",
+  "name": "bastnasite vien",
+  "icon": "waypoint-normal.png",
+  "x": -1209,
+  "y": 27,
+  "z": 695,
+  "r": 148,
+  "g": 48,
+  "b": 72,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    40
+  ]
+}

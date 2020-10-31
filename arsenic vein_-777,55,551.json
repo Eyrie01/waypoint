@@ -1,0 +1,17 @@
+{
+  "id": "arsenic vein_-777,55,551",
+  "name": "arsenic vein",
+  "icon": "waypoint-normal.png",
+  "x": -777,
+  "y": 55,
+  "z": 551,
+  "r": 157,
+  "g": 237,
+  "b": 108,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    29
+  ]
+}

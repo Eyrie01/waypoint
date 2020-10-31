@@ -1,0 +1,17 @@
+{
+  "id": "brown limonite vein_-681,20,503",
+  "name": "brown limonite vein",
+  "icon": "waypoint-normal.png",
+  "x": -681,
+  "y": 20,
+  "z": 503,
+  "r": 11,
+  "g": 130,
+  "b": 20,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    29
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "sulfur ore_-873,12,551",
+  "name": "sulfur ore",
+  "icon": "waypoint-normal.png",
+  "x": -873,
+  "y": 12,
+  "z": 551,
+  "r": 84,
+  "g": 210,
+  "b": 160,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    29
+  ]
+}
