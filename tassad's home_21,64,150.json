@@ -1,0 +1,17 @@
+{
+  "id": "tassad\u0027s home_21,64,150",
+  "name": "tassad\u0027s home",
+  "icon": "waypoint-normal.png",
+  "x": 21,
+  "y": 64,
+  "z": 150,
+  "r": 228,
+  "g": 60,
+  "b": 134,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
