@@ -5,10 +5,17 @@
   "x": -681,
   "y": 29,
   "z": 647,
+<<<<<<< HEAD
   "r": 217,
   "g": 85,
   "b": 165,
   "enable": true,
+=======
+  "r": 45,
+  "g": 139,
+  "b": 79,
+  "enable": false,
+>>>>>>> 2903eda97a5f1a4ce6ffbcf4711be69cd9e6ffdd
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [
