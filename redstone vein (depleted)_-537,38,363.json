@@ -1,0 +1,17 @@
+{
+  "id": "redstone vein (depleted)_-537,38,363",
+  "name": "redstone vein (depleted)",
+  "icon": "waypoint-normal.png",
+  "x": -537,
+  "y": 38,
+  "z": 363,
+  "r": 193,
+  "g": 160,
+  "b": 202,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

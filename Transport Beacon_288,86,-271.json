@@ -1,0 +1,17 @@
+{
+  "id": "Transport Beacon_288,86,-271",
+  "name": "Transport Beacon",
+  "icon": "waypoint-normal.png",
+  "x": 288,
+  "y": 86,
+  "z": -271,
+  "r": 114,
+  "g": 29,
+  "b": 100,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    1
+  ]
+}

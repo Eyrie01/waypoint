@@ -1,0 +1,17 @@
+{
+  "id": "rock salt vein (depleted)_-776,53,458",
+  "name": "rock salt vein (depleted)",
+  "icon": "waypoint-normal.png",
+  "x": -776,
+  "y": 53,
+  "z": 458,
+  "r": 67,
+  "g": 59,
+  "b": 212,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

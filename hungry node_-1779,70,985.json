@@ -1,0 +1,17 @@
+{
+  "id": "hungry node_-1779,70,985",
+  "name": "hungry node",
+  "icon": "waypoint-normal.png",
+  "x": -1779,
+  "y": 70,
+  "z": 985,
+  "r": 130,
+  "g": 156,
+  "b": 239,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

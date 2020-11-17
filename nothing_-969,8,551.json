@@ -1,0 +1,17 @@
+{
+  "id": "nothing_-969,8,551",
+  "name": "nothing",
+  "icon": "waypoint-normal.png",
+  "x": -969,
+  "y": 8,
+  "z": 551,
+  "r": 182,
+  "g": 208,
+  "b": 215,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    40
+  ]
+}

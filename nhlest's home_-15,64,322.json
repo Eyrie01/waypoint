@@ -1,0 +1,17 @@
+{
+  "id": "nhlest\u0027s home_-15,64,322",
+  "name": "nhlest\u0027s home",
+  "icon": "waypoint-normal.png",
+  "x": -15,
+  "y": 64,
+  "z": 322,
+  "r": 158,
+  "g": 9,
+  "b": 133,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
