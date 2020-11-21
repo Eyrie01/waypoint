@@ -2,6 +2,15 @@
   "id": "miner_-864,90,1344",
   "name": "miner",
   "icon": "waypoint-normal.png",
+<<<<<<< HEAD:miner_-903,16,554.json
+  "x": -903,
+  "y": 16,
+  "z": 554,
+  "r": 120,
+  "g": 164,
+  "b": 137,
+  "enable": false,
+=======
   "x": -864,
   "y": 90,
   "z": 1344,
@@ -9,6 +18,7 @@
   "g": 120,
   "b": 68,
   "enable": true,
+>>>>>>> 7fa40f7976a073852a399bae0496d3e89a8231fb:miner_-864,90,1344.json
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [

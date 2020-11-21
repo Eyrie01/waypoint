@@ -1,0 +1,17 @@
+{
+  "id": "apatite vein_-873,53,599",
+  "name": "apatite vein",
+  "icon": "waypoint-normal.png",
+  "x": -873,
+  "y": 53,
+  "z": 599,
+  "r": 211,
+  "g": 120,
+  "b": 5,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
