@@ -1,0 +1,17 @@
+{
+  "id": "oilsands vein_-777,62,791",
+  "name": "oilsands vein",
+  "icon": "waypoint-normal.png",
+  "x": -777,
+  "y": 62,
+  "z": 791,
+  "r": 42,
+  "g": 64,
+  "b": 162,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
