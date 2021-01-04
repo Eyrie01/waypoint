@@ -1,0 +1,17 @@
+{
+  "id": "oriharukon vein_-871,40,746",
+  "name": "oriharukon vein",
+  "icon": "waypoint-normal.png",
+  "x": -871,
+  "y": 40,
+  "z": 746,
+  "r": 88,
+  "g": 134,
+  "b": 165,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    40
+  ]
+}

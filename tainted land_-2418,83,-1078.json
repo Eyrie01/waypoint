@@ -1,0 +1,17 @@
+{
+  "id": "tainted land_-2418,83,-1078",
+  "name": "tainted land",
+  "icon": "waypoint-normal.png",
+  "x": -2418,
+  "y": 83,
+  "z": -1078,
+  "r": 130,
+  "g": 119,
+  "b": 241,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

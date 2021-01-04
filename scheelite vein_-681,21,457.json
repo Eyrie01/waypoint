@@ -1,0 +1,17 @@
+{
+  "id": "scheelite vein_-681,21,457",
+  "name": "scheelite vein",
+  "icon": "waypoint-normal.png",
+  "x": -681,
+  "y": 21,
+  "z": 457,
+  "r": 87,
+  "g": 199,
+  "b": 15,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    29
+  ]
+}

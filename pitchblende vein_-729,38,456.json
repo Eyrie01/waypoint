@@ -1,0 +1,17 @@
+{
+  "id": "pitchblende vein_-729,38,456",
+  "name": "pitchblende vein",
+  "icon": "waypoint-normal.png",
+  "x": -729,
+  "y": 38,
+  "z": 456,
+  "r": 205,
+  "g": 57,
+  "b": 38,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    29
+  ]
+}
