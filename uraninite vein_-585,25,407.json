@@ -1,0 +1,17 @@
+{
+  "id": "uraninite vein_-585,25,407",
+  "name": "uraninite vein",
+  "icon": "waypoint-normal.png",
+  "x": -585,
+  "y": 25,
+  "z": 407,
+  "r": 238,
+  "g": 126,
+  "b": 185,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    42
+  ]
+}

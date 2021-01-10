@@ -5,13 +5,13 @@
   "x": -537,
   "y": 17,
   "z": 455,
-  "r": 144,
-  "g": 43,
-  "b": 52,
-  "enable": true,
+  "r": 104,
+  "g": 23,
+  "b": 210,
+  "enable": false,
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [
-    45
+    42
   ]
 }

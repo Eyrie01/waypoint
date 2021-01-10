@@ -1,0 +1,17 @@
+{
+  "id": "soapstone vein_-585,31,599",
+  "name": "soapstone vein",
+  "icon": "waypoint-normal.png",
+  "x": -585,
+  "y": 31,
+  "z": 599,
+  "r": 147,
+  "g": 21,
+  "b": 132,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    42
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "grossular vein_-729,26,503",
+  "name": "grossular vein",
+  "icon": "waypoint-normal.png",
+  "x": -729,
+  "y": 26,
+  "z": 503,
+  "r": 54,
+  "g": 225,
+  "b": 177,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    42
+  ]
+}
