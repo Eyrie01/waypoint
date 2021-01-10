@@ -1,0 +1,17 @@
+{
+  "id": "ledox vein_-681,60,407",
+  "name": "ledox vein",
+  "icon": "waypoint-normal.png",
+  "x": -681,
+  "y": 60,
+  "z": 407,
+  "r": 148,
+  "g": 128,
+  "b": 11,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    35
+  ]
+}

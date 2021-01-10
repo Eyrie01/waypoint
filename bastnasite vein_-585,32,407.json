@@ -1,0 +1,17 @@
+{
+  "id": "bastnasite vein_-585,32,407",
+  "name": "bastnasite vein",
+  "icon": "waypoint-normal.png",
+  "x": -585,
+  "y": 32,
+  "z": 407,
+  "r": 231,
+  "g": 70,
+  "b": 172,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    45
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "chalcopyrite vein_-633,49,455",
+  "name": "chalcopyrite vein",
+  "icon": "waypoint-normal.png",
+  "x": -633,
+  "y": 49,
+  "z": 455,
+  "r": 100,
+  "g": 41,
+  "b": 6,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    45
+  ]
+}

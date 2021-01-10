@@ -1,0 +1,17 @@
+{
+  "id": "ilmenite vein_-585,43,455",
+  "name": "ilmenite vein",
+  "icon": "waypoint-normal.png",
+  "x": -585,
+  "y": 43,
+  "z": 455,
+  "r": 236,
+  "g": 231,
+  "b": 158,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    45
+  ]
+}
